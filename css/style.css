@@ -1,0 +1,89 @@
+/********** Base styles **********/
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  font-size:16px;
+}
+
+/* Simple Responsive Framework. */
+.row {
+  border: 2px;
+  margin-right: auto;
+  margin-left: auto;
+  padding:5px;
+}
+
+.box {
+  border: 1px solid black;
+  background-color: gray;
+  margin: 20px
+ 
+}
+
+
+
+#Chik{
+  background-color: #E0B3B3;
+
+}
+#Beef{
+  background-color: #D13F3F;
+}
+
+#Sushi{
+  background-color:#E3D6A4;
+}
+
+.paragraph{
+  margin: 10px;
+  margin-top: 35px;
+  font-family: Arial;
+  color: black;
+  clear: both;
+  font-size: ;
+  }
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* BRAND FOOD LLC */
+  font-family: 'Arial', serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #gray;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+nav-list {
+  margin-top: 5px;
+}
+#nav-list a {
+  color: #0000AA;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
+.container #header-nav 
+{margin-bottom: 100px;
+height: 20px; 
+}
+
+
+#top{
+  height: 3.33%;
+  margin-top:70px;
+  margin-bottom: 3.33%;
+  font-size: 1.75em ;
+}
+
