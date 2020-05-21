@@ -1,0 +1,78 @@
+.image1 {
+  background-image: url(https://images.unsplash.com/photo-1515823064-d6e0c04616a7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+}
+
+.image2 {
+  background-image: url(https://images.unsplash.com/photo-1563636680-28d36aeb83a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=738&q=80);
+}
+
+.image3 {
+  background-image: url(https://images.unsplash.com/photo-1583130449226-cec990126509?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=375&q=80);
+}
+
+.image4 {
+  background-image: url(https://images.unsplash.com/photo-1531969179221-3946e6b5a5e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+.image5 {
+  background-image: url(https://images.unsplash.com/photo-1521012012373-6a85bade18da?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=751&q=80);
+}
+
+.image6 {
+  background-image: url(https://images.unsplash.com/photo-1470162656305-6f429ba817bf?ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80);
+}
+
+.image7 {
+  background-image: url(https://images.unsplash.com/photo-1579887829663-67706e62e6ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80);
+}
+
+.image8 {
+  background-image: url(https://images.unsplash.com/photo-1543060895-03f57478a710?ixlib=rb-1.2.1&auto=format&fit=crop&w=335&q=80);
+}
+
+.image9 {
+  background-image: url(https://images.unsplash.com/photo-1578741373574-6142f0cf68e2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+}
+
+
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+
+body {
+	padding-top: 70px;
+}
+
+/*.jumbotron {
+	color:#66aa33 ;
+}
+
+.navbar-inverse {
+	background: green;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.navbar-inverse .navbar-brand {
+	color:white;
+}
+*/
+
+#logo{
+	width: 120px;
+	height:120px;
+	margin-bottom: 20px;
+}
+
+.jumbotron h1 {
+	font-size: 40px;
+	font-family: 'Rock Salt', cursive;
+}
+.jumbotron p {
+	font-family: 'Balsamiq Sans', cursive;
+}
