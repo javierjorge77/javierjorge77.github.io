@@ -28,7 +28,8 @@ easyBtn.addEventListener("click", function() {
 		}
 				
 	}
-colorDisplay.textContent= pickedColor;
+	messageDisplay.textContent= "";
+	colorDisplay.textContent= pickedColor;
 })
  //Easy button ends here  
 
@@ -46,6 +47,7 @@ hardBtn.addEventListener("click", function() {
 		squares[i].style.display= "block";
 		}	  
 	colorDisplay.textContent= pickedColor;
+	messageDisplay.textContent= "";
 
 })
 // End of Hard Button

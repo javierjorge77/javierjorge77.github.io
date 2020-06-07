@@ -39,10 +39,6 @@ h1 {
 
 }
 
-body{ 
-color: rgb(188, 71, 187)
-}
-
 
 .selected {
 	background: steelblue;
@@ -70,6 +66,8 @@ button {
 #message {
 	display: inline-block;
 	width: 20%;
+	color:black;
+	text-transform: uppercase;
 }
 
 button:hover {
